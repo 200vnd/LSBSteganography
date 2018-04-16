@@ -1,3 +1,3 @@
-LSBSteganography_
-Project giữa kì môn Kĩ thuật giấu tin_
+LSBSteganography__
+Project giữa kì môn Kĩ thuật giấu tin__
 GV: 
