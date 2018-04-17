@@ -1,3 +1,10 @@
 LSBSteganography  
 Project giữa kì môn Kĩ thuật giấu tin  
-GV: 
+GV: Hồ Đắc Hưng  
+SV: Trần Anh Nguyên  
+MSSV: N14DCAT144  
+Lớp: D14CQAT01-N
+  
+  
+  
+Sử dụng thuật toàn LSB để giấu tin vào ảnh png. 
