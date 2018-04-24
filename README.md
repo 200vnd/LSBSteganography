@@ -8,3 +8,5 @@ Lớp: D14CQAT01-N
   
   
 Sử dụng thuật toàn LSB để giấu tin vào ảnh png. 
+Chọn Encode hoặc Decode trong menu  
+Có thể sử dụng ảnh mẫu trong folder images.
